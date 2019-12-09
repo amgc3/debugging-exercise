@@ -103,28 +103,6 @@ Airport.prototype.land = function(plane) {
 
 When you run a debugger, you can hover over variables to see their values.
 
-## Instructions (30 minutes)
-
-* Pair up.
-
-* Clone this repo.
-
-* Open the `index.html` file in your web browser.
-
-* Open the browser console.
-
-* You should see a JavaScript error.
-
-* The code is very badly broken.  Someone called Fiendish Mary went through a perfectly good implementation of FizzBuzz, deleted all the tests and made lots of random changes to the code to break it.
-
-* Try and fix the code in `fizzbuzz.js` using the techniques for following the flow and getting visibility.  Don't rewrite the code from scratch.  Fix the broken code by making small changes and adding small pieces of code.
-
-* Remember to keep swapping driver and navigator.
-
-### Plenary (10 mins)
-
-We'll come back together for a short plenary to discuss learning new techniques.
-
 ## Resources
 
 * [Debugging :pill:](https://github.com/makersacademy/course/blob/master/pills/debugging.md)
